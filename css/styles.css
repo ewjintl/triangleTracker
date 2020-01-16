@@ -1,0 +1,16 @@
+.btn {
+  display: block;
+}
+
+#Equilateral {
+  display: none;
+}
+#Isosceles {
+  display: none;
+}
+#Scalene {
+  display: none;
+}
+#NA {
+  display: none;
+}
